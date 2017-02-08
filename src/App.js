@@ -84,7 +84,7 @@ class App extends Component
       <nav className="tabs is-boxed is-fullwidth">
         <div className="container">
           <ul>
-            <li className="is-active"><a>Overview</a></li>
+            <li className="is-active"><a>Overviewss</a></li>
             <li><a>Modifiers</a></li>
             <li><a>Grid</a></li>
             <li><a>Elements</a></li>
